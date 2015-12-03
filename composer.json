@@ -12,14 +12,6 @@
         "OSL-3.0",
         "AFL-3.0"
     ],
-    "extra": {
-        "map": [
-            [
-                "*",
-                "frontend/angeldm/optimus"
-            ]
-        ]
-    },
     "autoload": {
         "files": [
             "registration.php"
